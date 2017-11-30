@@ -1,6 +1,6 @@
 {
-  "name": "government.github.com",
-  "version": "1.0.0",
+  "name": "ahappyfacei.github.com",
+  "version": "0.1.0",
   "description": "![screenshot](assets/img/screenshot.png)",
   "main": "index.js",
   "directories": {
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/github/government.github.com.git"
+    "url": "git+https://github.com/ahappyfacei/ahappifacei.github.com.git"
   },
-  "author": "",
+  "author": "Phung Huynh",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/github/government.github.com/issues"
+    "url": "https://github.com/ahappyfacei/ahappifacei.github.com/issues"
   },
-  "homepage": "http://government.github.com",
+  "homepage": "https://ahappyfacei.github.io/",
   "dependencies": {
     "octicons": "^5.0.1",
     "primer-core": "^6.2.0",
