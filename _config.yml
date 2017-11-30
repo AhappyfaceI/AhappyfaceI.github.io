@@ -1,10 +1,10 @@
 # global settings
-title: "GitHub and Government"
-description: "GitHub helps government build software better, together"
+title: "AI Happy face solution"
+description: "Face only for the gate - end to end solution"
 permalink: "/stories/:title"
-url: https://government.github.com
+url: https://ahappyfacei.github.io
 relative_permalinks: false
-analytics_account: "UA-3769691-28"
+analytics_account: "UA-44052831-2"
 
 # build settings
 exclude: ["script", "vendor", "bower.json", "Gemfile", "Gemfile.lock", "Rakefile", "readme.md", "package.json"]
